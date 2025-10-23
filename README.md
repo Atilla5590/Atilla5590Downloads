@@ -1,2 +1,1 @@
-# Atilla5590Downloads
-My downloads for auto downloading
+# Warning this repo is only used for my autodownloads
